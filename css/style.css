@@ -1,0 +1,123 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+} 
+h1{
+    font-size: 5.62rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+p{
+    line-height: 2;
+}
+
+hr{
+    border: dotted grey 6px;
+    border-bottom: none;
+    width:5%;
+    margin: 100px auto;
+}
+
+.profile{
+    width: 40%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 250px;
+
+}
+.top-cloud {
+    position: absolute;
+    right: 250px;
+    top: 40px; 
+}
+.mount {
+    margin-top: 60px;
+    width: 50%;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.dev{
+    border-radius: 50%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-top: 6.5px;
+}
+.dsa {
+    border-radius: 50%;
+    width: 25%;
+    float: right;
+    margin-left:  30px;
+
+}
+.prphoto{
+    margin-top: 20px;
+    border: 0.5px solid grey;
+    border-radius: 50%;
+    
+    width: 40%; 
+}
+.footer-link{
+    color: #0d696c;
+    font-family: 'Montserrat', sans-serif;
+    width: 40%;
+    margin: 10px 20px;
+    text-decoration: none ;
+}
+.footer-link:hover{
+    color: whitesmoke;
+    font-size: 20px;
+}
+.bottom-container{
+    margin-top: 100px;
+    background-color: #66BFBF;
+    padding: 30px;
+}
+.copy-right {
+    color: #EAF6F6;
+}
+
+.btn {
+    background-color:#66BFBF;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: 14px;
+}
+.btn:hover {
+    background-color: #1dc5cb;
+    padding:15px;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px auto;
+}
